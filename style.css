@@ -1,0 +1,104 @@
+body {
+    max-width: 60%;
+    margin: auto;
+    font-family: Poppins, sans-serif;
+    ;
+}
+
+.address-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-left: 24px;
+    margin-right: 24px;
+    text-align: center;
+    border: 0px solid;
+    border-radius: 12px;
+    background-color: #dfdfdf;
+    width: 350px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.card h3 {
+    font-size: 26px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+
+.card p {
+    line-height: 1.7rem;
+    font-size: 16px;
+    margin: 24px;
+    color: #5d5b5e;
+}
+
+.section-header {
+    font-size: 38px;
+    text-align: center;
+    padding-top: 56px;
+    padding-bottom: 12px;
+    margin: 0px;
+}
+
+p.content {
+    line-height: 1.7rem;
+    font-size: 16px;
+    color: #5d5b5e;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    text-align: justify;
+}
+
+
+.comming-soon h1{
+    text-align: center;
+    font-size: 84px;
+    padding-top: 60px;
+    padding-bottom: 10px;;
+    margin: 0px;
+}
+
+img {
+    height: 200px;
+}
+section.logo-header {
+    display: flex;
+    justify-content: center;
+}
+.Tagline {
+    line-height: 1.7rem;
+    font-size: 16px;
+    color: #5d5b5e;
+    margin-top: 0px;
+    padding-bottom: 40px;
+}
+
+ul{
+        list-style-position: unset;
+        padding-left: 2rem;
+        list-style-type: circle;
+        font-size: 16px;
+}
+
+section.mission{
+    margin-top: 24px;
+    margin-bottom: 60px;
+}
+.mission-statment{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+}
+
+.mission-header{
+    font-size: 24px;
+    text-align: center;
+}
